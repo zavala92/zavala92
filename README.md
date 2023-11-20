@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**zavala92/zavala92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gentian, a Ph.D. candidate at TU Dresden, focusing on dealing with Complex Shapes.
 
-Here are some ideas to get you started:
+## What I'm Up To
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Diving deep into stable high-order surface integration for precise numerical simulations.
+- 🔭 Crafting efficient polynomial-level-set parametrizations for complex shapes.
+- 🔭 Exploring how to handle tricky shapes in Partial Differential Equations.
+
+## Get in Touch
+
+📫 How to reach me: g.zavalani@hzdr.de
