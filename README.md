@@ -1,13 +1,13 @@
-# Hi there! 👋
+# 🌟 Greetings, Traveler! 🚀
 
-I'm Gentian, a Ph.D. candidate at TU Dresden, focusing on dealing with Complex Shapes.
+Salutations! I am Gentian, a Ph.D. candidate at TU Dresden, dealing with Complex Shapes.
 
-## What I'm Up To
+## ✨ Current Ventures
 
-- 🔭 Diving deep into stable high-order surface integration for precise numerical simulations.
-- 🔭 Crafting efficient polynomial-level-set parametrizations for complex shapes.
-- 🔭 Exploring how to handle tricky shapes in Partial Differential Equations.
+- 🌊 Navigating the depths of stable high-order surface integration for precision in numerical simulations.
+- 🎨 Crafting spellbinding polynomial-level-set parametrizations for the enigmatic world of complex shapes.
+- 🧩 Unraveling the secrets of handling intricate shapes in the captivating realm of Partial Differential Equations.
 
-## Get in Touch
+## 📬 Let's Connect
 
-📫 How to reach me: g.zavalani@hzdr.de
+Feel free to send your missives to my digital abode: g.zavalani@hzdr.de 🚀
